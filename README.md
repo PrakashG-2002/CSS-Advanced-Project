@@ -1,5 +1,6 @@
 # CSS-Advanced-Project
 # home.html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,11 +146,12 @@
     </footer>
 </body>
 </html>
-
+```
 # output
 ![D home](https://github.com/PrakashG-2002/CSS-Advanced-Project/assets/144507749/cb3e2410-f1ac-4150-a116-9c699c000b60)
 
 # about.html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -230,11 +232,12 @@
     </footer>
 </body>
 </html>
-
+```
 # output
 ![D about](https://github.com/PrakashG-2002/CSS-Advanced-Project/assets/144507749/7d1c4952-91cb-41f0-970e-98a5b7660f53)
 
 # explore.html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -371,11 +374,12 @@
     </footer>
 </body>
 </html>
-
+```
 # output
 ![D explore](https://github.com/PrakashG-2002/CSS-Advanced-Project/assets/144507749/96d159ba-8490-4406-8285-13313d82bd76)
 
 # signup.html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -495,11 +499,12 @@
     </footer>
 </body>
 </html>
-
+```
 # output
 ![D signup](https://github.com/PrakashG-2002/CSS-Advanced-Project/assets/144507749/20b3737e-a817-4ea6-81a7-03e0bf846c5b)
 
 # login.html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -616,6 +621,6 @@
     </footer>
 </body>
 </html>
-
+```
 # output
 ![D login](https://github.com/PrakashG-2002/CSS-Advanced-Project/assets/144507749/cde24476-3747-4892-99b8-c46b1971f40a)
